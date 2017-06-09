@@ -1,0 +1,15 @@
+---
+_hotel_id: HOT875
+_portal_id: ''
+latitude: 42.34199
+longitude: -71.14359
+name: Hotel Boston
+email: ''
+phone_number: "--"
+address:
+  street1: 1650 Commonwealth Ave
+  street2: ''
+  state: Massachusetts
+  city: Boston
+  country: United States
+  zip_code: '02135'

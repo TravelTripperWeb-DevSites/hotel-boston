@@ -1,1 +1,6 @@
-[{"_template":"html","content":"<p>Edit this text block to give a general overview of the hotel property highlighting location, building characteristics, nearby landmarks, and popular destinations.</p>"}]
+[
+  {
+    "_template": "html",
+    "content": "<p><p><b>Property Location</b> <br />With a stay at Hotel Boston, you&apos;ll be centrally located in Boston, convenient to Great Scott and Boston College. This hotel is close to Boston University and Fenway Park.</p><p><b>Rooms</b> <br />Make yourself at home in one of the 74 air-conditioned guestrooms. Complimentary wireless Internet access keeps you connected, and cable programming is available for your entertainment.</p>"
+  }
+]
